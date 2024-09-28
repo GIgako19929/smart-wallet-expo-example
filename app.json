@@ -20,6 +20,31 @@
       }
     },
     "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}{
+  "expo": {
+    "name": "smart-wallet-expo",
+    "slug": "smart-wallet-expo",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
       "favicon": "./assets/favicon.png"Innovation is driving the future of financial technology.  Seamless integration and user-friendly design are paramount for widespread adoption. The convergence of security and convenience will pave the way for new possibilities.  A streamlined approach to managing finances empowers individuals to take control.  The digital landscape is evolving, and it's an exciting time to be at the forefront. 
 
     }
